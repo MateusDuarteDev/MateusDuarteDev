@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning advanced data workflows, Flask for backend development, and how to scale AI solutions using multi-agent systems (like CrewAI).
 - 💞️ I’m looking to collaborate on open-source projects related to data pipelines, AI-driven applications, and EdTech/Football analytics platforms.
 - 📫 How to reach me: mateus.dc@hotmail.com or via [LinkedIn](https://www.linkedin.com/in/mateus-duarte-cavalcante)
-- 😄 Pronouns: he/him (ele/dele) 
 - ⚡ Fun fact: I’m building an intelligent question analyzer that helps students identify their knowledge gaps using AI — and I’m just getting started.
+- 🏗️ Curiosity: I have a degree in Civil Engineering — which gave me a solid foundation in organizing, planning, and solving problems with structured logic and excellence.
