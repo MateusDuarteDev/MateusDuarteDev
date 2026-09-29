@@ -1,7 +1,15 @@
-# Welcome 😄
-- 👋 Hey there! I'm Mateus, aka Duarte — a problem solver who turns data, ideas, and opportunities into smart solutions.
-- 📊 I'm focused on data analysis and Business Intelligence, with hands-on practice in data engineering (Python, SQL, Power BI) and AI-driven tools.
-- 🌱 I'm currently deepening my data workflows (SQL, Power BI, data quality) while exploring multi-agent AI systems (CrewAI) on the side.
-- 💞️ I'm looking to collaborate on open-source projects related to data pipelines, dashboards, and AI-driven applications.
-- 🏗️ Background: I hold a degree in Civil Engineering and run a small retail business, which gave me a strong foundation in structured problem-solving, budgeting, and decision-making with real data.
-- 📫 How to reach me: mateus.dc@hotmail.com or via [LinkedIn](https://www.linkedin.com/in/mateus-duarte-cavalcante)
+# Welcome 😄 👋
+
+- 👋 Hey there! I’m **Mateus Duarte** (aka Duarte) — a problem solver turning complex data and ideas into smart, scalable solutions.
+- 🎓 **Background:** Degree in Civil Engineering and Systems Analysis and Development, combined with a postgraduate degree in Data Science — blending structured planning with modern analytical and tech skills.
+- 📊 **Interests:** Data Science, Data Analysis, Artificial Intelligence, Data Engineering, and business analytics (with a soft spot for real-impact tech, EdTech, and sports analytics).
+- 🛠️ **Tech Stack & Tools:**
+  - **Languages & Backend:** Python (Pandas, SQLAlchemy, Flask, Jinja2), SQL (SQLite)
+  - **Data & BI:** Power BI Desktop (DAX, Dashboards, KPIs), Google Colab, Applied Statistics
+  - **AI & Automation:** Multi-Agent Systems (CrewAI), workflow automation, and LLM-driven applications
+- 🌱 **Currently exploring:** Advanced data pipelines, predictive modeling, and robust software architectures.
+- 💞️ **Looking to collaborate on:** Open-source projects in Data Pipelines, AI-driven applications, Business Intelligence, and EdTech or Analytics platforms.
+- 📫 **How to reach me:** 
+  - E-mail: mateus.dc@hotmail.com
+  - [LinkedIn](https://www.linkedin.com/in/mateus-duarte-cavalcante)
+- ⚡ **Fun fact / Projects:** Building intelligent systems and data-driven applications focused on task automation, analytics, and problem-solving.
